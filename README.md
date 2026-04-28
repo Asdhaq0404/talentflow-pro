@@ -9,7 +9,7 @@
   <h3>Enterprise Job Tracking Platform</h3>
   
   <p>
-    <strong>Live Demo:</strong> <a href="https://talentflow-pro-rnxe.vercel.app/login">talentflow-pro.vercel.app</a><br/>
+    <strong>Live Demo: <a href="https://talentflow-pro.vercel.app">talentflow-pro.vercel.app</a>
     <strong>GitHub:</strong> <a href="https://github.com/Asdhaq0404/talentflow-pro">github.com/Asdhaq0404/talentflow-pro</a>
   </p>
 </div>
