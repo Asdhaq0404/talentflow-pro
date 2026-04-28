@@ -45,6 +45,13 @@
 - **Routing:** React Router v6
 
 ---
+## 🌐 Live Demo
+
+**[Click here to see the live application](https://talentflow-pro.vercel.app)**
+
+Test credentials:
+- Admin: `admin@company.com` / `admin123`
+- User: `john@company.com` / `john123`
 
 ## 🚀 Quick Start
 
